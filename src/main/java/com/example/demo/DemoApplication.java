@@ -10,4 +10,8 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
+	public void barMethod1() {
+		System.out.println("not covered");
+	}
+
 }

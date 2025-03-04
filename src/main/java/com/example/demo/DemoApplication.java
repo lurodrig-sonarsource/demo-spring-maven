@@ -25,4 +25,8 @@ public class DemoApplication {
 	public void randomMethod() {
 		System.out.println("not covered");
 	}
+
+	public void anotherMethod() {
+		System.out.println("not covered");
+	}
 }

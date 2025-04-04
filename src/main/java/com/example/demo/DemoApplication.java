@@ -14,4 +14,11 @@ public class DemoApplication {
 		System.out.println("not covered");
 	}
 
+	public void dummyMethod1() {
+		System.out.println("not covered");
+	}
+
+	public void dummyMethod2() {
+		System.out.println("not covered");
+	}
 }

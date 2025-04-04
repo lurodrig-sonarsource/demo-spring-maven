@@ -45,4 +45,8 @@ public class DemoApplication {
 	public void methodInMainBranchInTheFutureOutOfNewCodePeriod90DAYSAndSCMsensorDisabled() {
 		System.out.println("not covered");
 	}
+
+	public void dummyDemoMethod() {
+		System.out.println("not covered");
+	}
 }

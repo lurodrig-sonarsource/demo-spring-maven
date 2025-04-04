@@ -29,4 +29,8 @@ public class DemoApplication {
 	public void anotherMethod() {
 		System.out.println("not covered");
 	}
+
+	public void methodInMainBranch() {
+		System.out.println("not covered");
+	}
 }

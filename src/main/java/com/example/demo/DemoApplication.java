@@ -29,4 +29,24 @@ public class DemoApplication {
 	public void anotherMethod() {
 		System.out.println("not covered");
 	}
+
+	public void methodInMainBranch() {
+		System.out.println("not covered");
+	}
+
+	public void methodInMainBranchInTheFutureOutOfNewCodePeriod() {
+		System.out.println("not covered");
+	}
+
+	public void methodInMainBranchInTheFutureOutOfNewCodePeriod90DAYS() {
+		System.out.println("not covered");
+	}
+
+	public void methodInMainBranchInTheFutureOutOfNewCodePeriod90DAYSAndSCMsensorDisabled() {
+		System.out.println("not covered");
+	}
+
+	public void dummyDemoMethod() {
+		System.out.println("not covered");
+	}
 }

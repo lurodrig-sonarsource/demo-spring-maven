@@ -33,4 +33,8 @@ public class DemoApplication {
 	public void methodInMainBranch() {
 		System.out.println("not covered");
 	}
+
+	public void methodInMainBranchInTheFutureOutOfNewCodePeriod() {
+		System.out.println("not covered");
+	}
 }

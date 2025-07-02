@@ -37,4 +37,8 @@ public class DemoApplication {
 	public void methodInMainBranchInTheFutureOutOfNewCodePeriod() {
 		System.out.println("not covered");
 	}
+
+	public void methodInMainBranchInTheFutureOutOfNewCodePeriod90DAYS() {
+		System.out.println("not covered");
+	}
 }
